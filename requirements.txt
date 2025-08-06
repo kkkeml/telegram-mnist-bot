@@ -1,0 +1,5 @@
+tensorflow
+numpy
+opencv-python
+pillow
+python-telegram-bot==13.15
